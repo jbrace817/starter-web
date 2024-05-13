@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    James Brace james@git.training @testjb
 
 # THANKS
 
